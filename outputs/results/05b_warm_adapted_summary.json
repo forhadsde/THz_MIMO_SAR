@@ -1,0 +1,14 @@
+{
+  "n_cases": 6,
+  "epochs": 30,
+  "sigma_m": 0.003,
+  "lr_m": 0.003,
+  "median_err_mm_after_0_iters": 0.985240563750267,
+  "median_err_mm_after_5_iters": 1.168966293334961,
+  "median_err_mm_after_10_iters": 0.8918438106775284,
+  "median_err_mm_after_20_iters": 0.5320636555552483,
+  "median_final_err_mm": 0.01623108983039856,
+  "mean_final_err_mm": 0.02228763575355212,
+  "reached_2mm": "6/6",
+  "mean_seconds": 336.0398866335551
+}

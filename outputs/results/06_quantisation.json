@@ -1,0 +1,33 @@
+{
+  "fp32_test_mae_mm": {
+    "x": 2.7962286472320557,
+    "y": 10.188100814819336,
+    "z": 5.112585067749023,
+    "r": 2.5817832946777344
+  },
+  "ptq_int8_test_mae_mm": {
+    "x": 2.8913683891296387,
+    "y": 10.187155723571777,
+    "z": 5.141733169555664,
+    "r": 2.584380626678467
+  },
+  "final_method": "PTQ INT8",
+  "final_int8_test_mae_mm": {
+    "x": 2.8913683891296387,
+    "y": 10.187155723571777,
+    "z": 5.141733169555664,
+    "r": 2.584380626678467
+  },
+  "int4w_int8a_ptq_test_mae_mm": {
+    "x": 3.354238510131836,
+    "y": 10.180859565734863,
+    "z": 5.1353583335876465,
+    "r": 2.5804314613342285
+  },
+  "weights": 882496,
+  "fp32_weight_kb": 3447.25,
+  "int8_weight_kb": 861.8125,
+  "int4_weight_kb": 430.90625,
+  "fake_mode": false,
+  "note": "Fake quantisation in PyTorch: accuracy effect only, not hardware speed. Sizes count conv and linear weights only."
+}

@@ -1,0 +1,9 @@
+{
+  "seconds_per_sim": 4.014939785003662,
+  "feature_shape": [
+    10,
+    31,
+    64
+  ],
+  "mitsuba_version": "3.3.0"
+}
