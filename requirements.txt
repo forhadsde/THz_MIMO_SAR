@@ -1,0 +1,10 @@
+torch==2.5.1
+numpy==1.26.4
+scipy==1.14.1
+matplotlib==3.10.0
+trimesh==4.6.3
+pyvista==0.44.2
+mitsuba==3.3.0
+ipykernel
+nbconvert
+nbformat
